@@ -1,5 +1,7 @@
 # Pharmacy Management System
 
+Live URL: http://edgebook.wuaze.com/
+
 ## Overview
 This project is a Pharmacy Management System designed to simplify and automate various pharmacy operations. It provides a user-friendly dashboard for managers to:
 - Access and manage stock
