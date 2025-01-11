@@ -26,9 +26,9 @@ This system is designed to improve operational efficiency, reduce manual errors,
 3. Utilize reporting tools for data insights and stock analysis.
 
 ## Technologies Used
-- Backend: [Your Backend Framework Here]
-- Frontend: [Your Frontend Framework Here]
-- Database: [Your Database Here]
+- Backend: PHP
+- Frontend: Raw HTML, CSS, JavaScript
+- Database: MySQL
 
 ---
 
